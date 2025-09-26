@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # project
 My Masters in Data Science, Programming CW.
 =======
@@ -84,7 +84,7 @@ Student enrollment \& GPA calculations
 
 Academic status (Dean’s List / Good Standing / Probation)
 
-Faculty workload \& responsibilities
+Faculty workload & responsibilities
 
 Department + course assignments
 
@@ -141,5 +141,3 @@ scikit-learn
 Author -
 
 Kasun Kanishka Ekanayake/ MSc Data Science – Coventry University (via NIBM Sri Lanka)
-
->>>>>>> 2bb045d (Initial commit)
